@@ -11,6 +11,9 @@ All data used within my tutorials can be found within the data subfolder. This i
 If you have cloned this repository, then all the relative locations used within the examples should work. However, if you experience issues or have downloaded a specific file, then you may need to use an absolute reference to the data on your local machine.
 
 
+# Virtual Environment
+
+
 # Links
 
 - [YouTube Channel](https://www.youtube.com/@AndyMcDonald42)
