@@ -1,3 +1,6 @@
+# Additional Files
+data/Xeek Force 2020/train.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
